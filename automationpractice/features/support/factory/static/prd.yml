@@ -1,0 +1,5 @@
+valid_product: "T-shirts"
+
+user_for_login:
+  email: '1234@teste.com'
+  password: '123456'
