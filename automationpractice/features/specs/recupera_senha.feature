@@ -1,5 +1,7 @@
 #language: pt
 
+@regression
+
 Funcionalidade: Recuperação de senha
     Como um usuário do Ecommerce Your Logo
     Quero recuperar a senha da conta 

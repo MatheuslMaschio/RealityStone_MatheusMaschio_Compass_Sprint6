@@ -8,6 +8,7 @@ module Pages
         section :header, Sections::Header, 'div.header-container'
         sections :products, Sections::Products, 'div.product-container'
 
+        
         def acess_product_page(index)
             products[index].name.click
         end   
